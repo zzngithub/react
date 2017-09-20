@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "name": "admin2",
+      "gender": "女",
+      "age": "23",
+      "schoolname": "ass000",
+      "id": 2
+    },
+    {
+      "name": "77",
+      "gender": "男",
+      "age": "7",
+      "schoolname": "77",
+      "id": 3
+    }
+  ],
+  "menuItem": [
+    {
+      "id": "1",
+      "bpid": "",
+      "name": "用户列表",
+      "icon": "user",
+      "route": "/user/list"
+    },
+    {
+      "id": "2",
+      "bpid": "1",
+      "name": "Users",
+      "icon": "user",
+      "route": "/user"
+    },
+    {
+      "id": "7",
+      "bpid": "1",
+      "name": "Posts",
+      "icon": "shopping-cart",
+      "route": "/post"
+    },
+    {
+      "id": "3",
+      "bpid": "1",
+      "name": "Request",
+      "icon": "api",
+      "route": "/request"
+    },
+    {
+      "id": "4",
+      "bpid": "1",
+      "name": "UI Element",
+      "icon": "camera-o"
+    }
+  ]
+}
